@@ -1,3 +1,5 @@
+# Agentic System
+
 ## Types of agentic system
 
 ### Categorize by step
