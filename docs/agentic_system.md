@@ -25,3 +25,17 @@
 - Perception-based
 - Cognition-based
 - Action-based
+
+## Multi-agent architecture patterns
+
+### Sequential
+### Parallel
+### Loop
+### Hierarchical
+### Networking (Team)
+
+- Selector + Workers
+- Orchestrator + Workers
+- Round Robin
+- Swarm
+- Competition
