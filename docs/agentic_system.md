@@ -17,11 +17,11 @@
 - retrieval-intensive applications
 - generation-intensive applications
 
-#### Categorize by complexity
+### Categorize by complexity
 - Simple tasks
 - Complex tasks
 
-#### Categorize by task type
+### Categorize by task type
 - Perception-based
 - Cognition-based
 - Action-based
