@@ -10,6 +10,10 @@
 - single-agent
 - multi-agent
 
+### Categorize by team size
+- Fixed-size team
+- Flexible-size team
+
 ### Categorize by interaction
 - autonomous
 - interactive
@@ -31,13 +35,16 @@
 ## Multi-agent architecture patterns
 
 ### Sequential
-### Parallel
-### Loop
-### Hierarchical
-### Networking (Team)
 
+### Parallel
+
+### Loop
+
+### Hierarchical
+
+### Networking (Team)
 - Selector + Workers
 - Orchestrator + Workers
 - Round Robin
 - Swarm
-- Competition
+- **Competition**
