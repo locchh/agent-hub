@@ -34,17 +34,25 @@
 
 ## Multi-agent architecture patterns
 
-### Sequential
+**Sequential**
 
-### Parallel
+**Parallel**
 
-### Loop
+**Loop**
 
-### Hierarchical
+**Hierarchical**
 
-### Networking (Team)
+**Networking (Team)**
 - Selector + Workers
 - Orchestrator + Workers
 - Round Robin
 - Swarm
-- **Competition**
+- Competition
+
+## What’s Happening Around the World?
+
+- Some researchers focus on **benchmarking** (e.g., GAIA, SWBench).
+- Others try to **modify agent's behavior** (e.g., ReAct, CodeAct).
+- Some try to **improve agent's ability** (improve memory, reasoning, safety, well-aligned, etc.)
+- Some study **agent's collaboration** (e.g., MagenticOne, Alita).
+- Others work on **delivering agent-related frameworks, platforms, and applications**.
