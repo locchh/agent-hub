@@ -36,18 +36,49 @@
 
 **Sequential**
 
+<div align="center">
+    <img src="../assets/pics/sequential.png" alt="sequential" width="200"/>
+    <br>
+    <em>Figure 1: Sequential Diagram.</em>
+</div>
+
 **Parallel**
+
+<div align="center">
+    <img src="../assets/pics/parallel.png" alt="parallel" width="200"/>
+    <br>
+    <em>Figure 2: Parallel Diagram.</em>
+</div>
 
 **Loop**
 
+<div align="center">
+    <img src="../assets/pics/loop.png" alt="loop" width="200"/>
+    <br>
+    <em>Figure 3: Loop Diagram.</em>
+</div>
+
 **Hierarchical**
 
+<div align="center">
+    <img src="../assets/pics/hierarchical.png" alt="hierarchical" width="125"/>
+    <br>
+    <em>Figure 4: Hierarchical Diagram.</em>
+</div>
+
 **Networking (Team)**
+
+<div align="center">
+    <img src="../assets/pics/networking.png" alt="networking" width="275"/>
+    <br>
+    <em>Figure 5: Networking Diagram.</em>
+</div>
+
 - Selector + Workers
 - Orchestrator + Workers
 - Round Robin
 - Swarm
-- Competition
+- **Competition**
 
 ## What’s Happening Around the World?
 
