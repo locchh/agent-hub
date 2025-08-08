@@ -88,35 +88,15 @@
 - Some study **agent's collaboration** (e.g., MagenticOne, Alita).
 - Others work on **delivering agent-related frameworks, platforms, and applications**.
 
-## Compare Agent with LLM
+## Why Agent-Based Systems Can Be More Powerful than Pure LLMs
 
-| Aspect | LLM with Tools | Agentic System |
-|--------|---------------|----------------|
-| **Architecture** | Single model + function calling | Multi-component system with planning, memory, and execution modules |
-| **Decision Making** | Reactive - responds to immediate input | Proactive - can initiate actions and plan ahead |
-| **Memory** | Limited to context window | Persistent memory across sessions and tasks |
-| **Planning** | Basic step-by-step reasoning | Advanced planning with goal decomposition and strategy adaptation |
-| **Tool Usage** | Direct function calls based on current context | Strategic tool selection with multi-step workflows |
-| **Error Handling** | Limited retry mechanisms | Sophisticated error recovery and plan adjustment |
-| **Learning** | Static - no learning from interactions | Can learn from experience and improve over time |
-| **Autonomy** | Requires explicit instructions for each step | Can operate independently with high-level goals |
-| **Collaboration** | Single entity interaction | Multi-agent coordination and communication |
-| **State Management** | Stateless between conversations | Maintains state and context across interactions |
-| **Task Complexity** | Good for single-turn, well-defined tasks | Excels at complex, multi-step, long-term objectives |
-| **Adaptability** | Limited to pre-defined tools and patterns | Can adapt strategies and discover new approaches |
-| **Feedback Loop** | One-way: input → processing → output | Continuous feedback and refinement cycles |
-| **Resource Management** | No resource planning or optimization | Can manage computational and time resources |
-| **Goal Alignment** | Follows immediate instructions | Maintains alignment with long-term objectives |
+-  Retrieve Accurate Information (Web, Files, APIs, External, Internal, Up-to-Date)
 
-### Key Differences Summary
+- Execution of Code & Complex Computation in a Secure Sandbox
 
-**LLM with Tools:**
-- **Strengths**: Fast, predictable, good for well-defined tasks, easy to control
-- **Limitations**: No persistence, limited planning, reactive only, no learning
+- Integration with Specialized Tools (Calculator, Browser, Database, etc.)
 
-**Agentic Systems:**
-- **Strengths**: Autonomous operation, complex problem solving, adaptive learning, persistent memory
-- **Limitations**: More complex to build and control, potential for unexpected behavior, higher computational overhead
+- Collaboration Between Multiple Agents
 
 ## Example Queries
 
