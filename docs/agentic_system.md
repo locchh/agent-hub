@@ -96,9 +96,9 @@
 
 - 🛠️ Integration with Specialized Tools (Calculator, Browser, Database, etc.).
 
-- 🗃️ Collaboration Between Multiple Agents.
+- 🤝 Collaboration Between Multiple Agents.
 
-- Long-term, short-term memory.
+- 🗃️ Long-term, short-term memory.
 
 ## Example Queries
 
