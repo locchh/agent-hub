@@ -90,13 +90,15 @@
 
 ## Why Agent-Based Systems Can Be More Powerful than Pure LLMs
 
--  Retrieve Accurate Information (Web, Files, APIs, External, Internal, Up-to-Date)
+- Retrieve Accurate Information (Web, Files, APIs, External, Internal, Up-to-Date).
 
-- Execution of Code & Complex Computation in a Secure Sandbox
+- Execution of Code & Complex Computation in a Secure Sandbox.
 
-- Integration with Specialized Tools (Calculator, Browser, Database, etc.)
+- Integration with Specialized Tools (Calculator, Browser, Database, etc.).
 
-- Collaboration Between Multiple Agents
+- Collaboration Between Multiple Agents.
+
+- Long-term, short-term memory.
 
 ## Example Queries
 
